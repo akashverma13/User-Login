@@ -4,7 +4,7 @@
 
 ## Installation
 
-Use npm to install foobar the modules from the main directory
+Use npm to install the modules from the main directory
 
 ```bash
 npm install 
